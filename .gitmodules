@@ -1,0 +1,3 @@
+[submodule "plonky2-crypto"]
+	path = plonky2-crypto
+	url = https://github.com/JumpCrypto/plonky2-crypto
